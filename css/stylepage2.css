@@ -26,20 +26,13 @@
   color: white;
 }
 
-#imagedefond {
-	background-image: url("../image/background/background.jpg");
-	background-repeat: no-repeat;
-	height: 550px;
-	background-size: cover;
-
-}
-
 #footer{
 	font-family: "Bree Serif", serif;
 	background-color: black;
 	color:grey;
+	margin-top: 50px;
 	padding-left: 30px;
-	padding-top: 1em;
+	padding-top: 1px;
 	padding-bottom: 1em;
 }
 
@@ -47,6 +40,7 @@
 #footer a {
 
 color: grey;
+
 }
 
 h1{
@@ -56,4 +50,8 @@ h1{
 	color: black;
 	text-shadow: 3px 3px rgba(255, 255, 255, 0.9);
 	padding-top: 50px;
+}
+
+body{
+	margin-top: 100px;
 }
